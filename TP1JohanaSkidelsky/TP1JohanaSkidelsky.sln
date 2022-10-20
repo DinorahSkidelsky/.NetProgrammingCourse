@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundo\HolaMundo.csproj", "{28E305D2-2F8E-47B5-99FA-EE09CB5EE5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChauMundo", "ChauMundo\ChauMundo.csproj", "{469E77DD-9E2C-4F27-ACEE-59B7BA6CCB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E305D2-2F8E-47B5-99FA-EE09CB5EE5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E305D2-2F8E-47B5-99FA-EE09CB5EE5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E305D2-2F8E-47B5-99FA-EE09CB5EE5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E305D2-2F8E-47B5-99FA-EE09CB5EE5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469E77DD-9E2C-4F27-ACEE-59B7BA6CCB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469E77DD-9E2C-4F27-ACEE-59B7BA6CCB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469E77DD-9E2C-4F27-ACEE-59B7BA6CCB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469E77DD-9E2C-4F27-ACEE-59B7BA6CCB29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B07F886-4BA3-4973-9563-559E54492DAB}
+	EndGlobalSection
+EndGlobal
