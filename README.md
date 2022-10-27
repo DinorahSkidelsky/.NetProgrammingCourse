@@ -1,4 +1,4 @@
-### First Practical Work for the .Net Programming Course
+# First Practical Work for the .Net Programming Course
 
 * Submit a Visual Studio solution containing two projects, the first should be called “Hola Mundo” and the second project “Chau Mundo”.
 
